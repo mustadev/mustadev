@@ -1,6 +1,6 @@
 # Hi there 👋
 
-hey i am a Full Stack Developer and i am an IT enthusiast. I am always leaning new technologies and I love chalenging myself. In my free time i work on random fun projects.
+hey i am a Full Stack Developer and i am an IT enthusiast. I am always leaning new technologies and I love challenging myself. In my free time i work on random fun projects.
 
 <p align="center">
 
